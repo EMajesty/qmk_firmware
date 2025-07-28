@@ -1,12 +1,10 @@
 # emajesty/cyberia
 
-![emajesty/cyberia](imgur.com image replace me!)
-
-*A short description of the keyboard/project*
+A 36-key monoblock split keyboard
 
 * Keyboard Maintainer: [EMajesty](https://github.com/EMajesty)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: cyberia pcb
+* Hardware Availability: [Project is open source](https://github.com/EMajesty/cyberia)
 
 Make example for this keyboard (after setting up your build environment):
 
