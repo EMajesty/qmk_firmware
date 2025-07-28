@@ -1,5 +1,7 @@
 # emajesty/cyberia
 
+![cyberia](https://i.imgur.com/CntXv3e.jpeg)
+
 A 36-key monoblock split keyboard
 
 * Keyboard Maintainer: [EMajesty](https://github.com/EMajesty)
